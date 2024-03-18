@@ -1,7 +1,7 @@
 # North_Fulton
 ## Group Members: Felix, Nike, Peter, Zhengyi
 ## Plan
-Our project focus on inverstigating the air pollution and water pollution in North Fulton. Our plan is here::
+Our project focuses on investigating air and water pollution in North Fulton. Here is our plan:: LINK 
 ## Data sources
-
+LINK
 
