@@ -9,8 +9,11 @@ Additionally, SEJA grapples with safety issues such as speeding and worries abou
 
 These facilities locations serve as point-source polluters, contributing to environmental degradation that impacts air, water, and soil quality in the surrounding areas. Specifically, diesel trucks' emissions exacerbate air pollution, leading to a foul odor permeating the air. This pollution raises concerns about the contaminants present in the air and water, prompting questions about the extent of violations occurring at these facilities. Our team is therefore to help them identify these information regarding pollutants present, their harmful effects, and what actions can be taken to mitigate them. We also need to uncover the transparency regarding the nature of pollutants, identifying severe violations, and implementing measures to rectify them, as the community strives for a healthier and safer environment.
 
+### Solution:
+Our team is therefore to help them identify this information regarding pollutants present, their harmful effects, and what actions can be taken to mitigate them. We also need to uncover the transparency regarding the nature of pollutants, identifying severe violations, and implementing measures to rectify them, as the community strives for a healthier and safer environment.
+
 ### So What & Benefit:
-This research process will help us better understand and inform the community with correct information. These point-source polluters not only degrade air, water, and soil quality but also pose risks to public health and well-being. Without information and action, the  the community remains vulnerable to the harmful effects of pollution. Recognising these issues and implementing solutions is therefore critical to the well-being and sustainable development of communities.
+This research process will help us better understand and inform the community with correct information on the pollution plants and locations. These point-source polluters not only degrade air, water, and soil quality but also pose risks to public health and well-being, such as respiratory issues and mental issues. Without information and action, the community remains vulnerable to the harmful effects of pollution. Recognizing these issues and implementing solutions is therefore critical to the well-being and sustainable development of communities. 
 
 ### Smart Goal:
 #### Specific 
@@ -23,7 +26,10 @@ Leveraging partnerships with environmental agencies, local authorities, and comm
 Identifying pollution sources is crucial for addressing the community's mission of fostering a healthier and safer environment. By pinpointing specific industrial plants contributing to pollution, we can support SEJA's efforts to advocate for environmental justice and implement targeted mitigation measures.
 #### Time-bound 
 Within the next 2 months, we will complete comprehensive assessments in targeted areas to identify specific industrial plants responsible for water and air pollution. Progress will be monitored weekly, with a final report and recommendations provided to SEJA by the end of the timeline.
-111
+#### Questions:
+1. What are the specific geographic locations, types of plants, pollutants that is affecting the South Fulton area over time? Which location has the most pollutants so that we can pay extra attention to and inform the community? 
+2. What do we know from the water quality data? And is there any correlation between water quality, air, and pollution factors over the years?
+
 ## Plan
 Our project focuses on investigating air and water pollution in South Fulton. Here is our [Project Plan](https://github.com/2zOu2/North_Fulton/blob/main/Project%20Plan.xlsx)
 ## Data sources
