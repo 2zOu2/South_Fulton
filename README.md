@@ -1,5 +1,5 @@
 # South_Fulton
-## Group Members: Felix, Nika, Peter, Zhengyi
+## Group Members: Fred, Nika, Peter, Zhengyi
 ## Overview
 ### Community Need: 
 The community, represented by the Southeast Environmental Justice Alliance (SEJA), faces multifaceted needs spanning various domains. Primarily, there's a pressing need for a healthier and more sustainable local environment. Their goal is to identify environmental problems, ranging from air pollution to water quality, conservation, and toxic waste, and using scientific data and expert input to present solutions. According to their website, their concerns include 
@@ -8,6 +8,9 @@ the proliferation of fast-food restaurants, littering exacerbated by the prevale
 Additionally, SEJA grapples with safety issues such as speeding and worries about the welfare of local wildlife. Environmentally, they work hard to reduce the emissions from diesel trucks, the pollution of storm drains and creeks due to littering, and the unpleasant odor in the air. Furthermore, their concerns were directed towards facilities like XPO Logistics-JLG, Linde Gas, LLC, B&B Construction Processing, and Clean Earth, suggesting a need for enhanced oversight and mitigation measures to address the environmental impact of their operations. Overall, the community's needs revolve around fostering a healthier, safer, and more sustainable living environment for all residents.
 
 These facilities locations serve as point-source polluters, contributing to environmental degradation that impacts air, water, and soil quality in the surrounding areas. Specifically, diesel trucks' emissions exacerbate air pollution, leading to a foul odor permeating the air. This pollution raises concerns about the contaminants present in the air and water, prompting questions about the extent of violations occurring at these facilities. Our team is therefore to help them identify these information regarding pollutants present, their harmful effects, and what actions can be taken to mitigate them. We also need to uncover the transparency regarding the nature of pollutants, identifying severe violations, and implementing measures to rectify them, as the community strives for a healthier and safer environment.
+
+### So What & Benefit:
+This research process will help us better understand and inform the community with correct information. These point-source polluters not only degrade air, water, and soil quality but also pose risks to public health and well-being. Without information and action, the  the community remains vulnerable to the harmful effects of pollution. Recognising these issues and implementing solutions is therefore critical to the well-being and sustainable development of communities.
 
 ### Smart Goal:
 #### Specific 
@@ -29,5 +32,6 @@ The Toxics Release Inventory (TRI) is an information resource available through 
 
 We mainly use the TRI [Dataset](https://github.com/2zOu2/South_Fulton/blob/main/South%20Fulton%20TRI%20data%202020-2022.csv) around South Fulton. It is directly downloaded from the TRI website.
 ### Map Demo
-We aim to create a interactive map to tell the datastory, and we have a [Demo](https://github.com/2zOu2/South_Fulton/blob/main/pollution_map.html) here
+We aim to create a interactive map to tell the datastory, and we have a [Chemical Pollution Map](https://github.com/2zOu2/South_Fulton/blob/main/pollution_map.html) and 
+[Water Pollution Map](https://github.com/2zOu2/South_Fulton/blob/main/monitoring_site_map.html) 
 
