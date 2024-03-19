@@ -6,7 +6,7 @@ Our project focuses on investigating air and water pollution in South Fulton. He
 ### Dataset discription
 The Toxics Release Inventory (TRI) is an information resource available through the Environmental Protection Agency that can help you learn about the management and release of toxic chemicals in your community. The TRI Program was established in 1987 out of the Emergency Planning and Community Right-to-Know Act. Today, there are over 21,000 facilities that report data to TRI nationwide, and it covers over 800 toxic chemicals. 
 
-We mainly use the TRI [Dataset](https://github.com/2zOu2/South_Fulton/blob/main/South%20Fulton%20TRI%20data%202020-2022.csv) of South Fulton. It is directly downloaded from the TRI website
+We mainly use the TRI [Dataset](https://github.com/2zOu2/South_Fulton/blob/main/South%20Fulton%20TRI%20data%202020-2022.csv) of South Fulton. It is directly downloaded from the TRI website.
 ### Map Demo
 We aim to create a interactive map to tell the datastory, and we have a [Demo](https://github.com/2zOu2/South_Fulton/blob/main/pollution_map.html) here
 
