@@ -1,5 +1,5 @@
 # South_Fulton
-## Group Members: Felix, Nika, Peter, Zhengyi
+## Group Members: Fred, Nika, Peter, Zhengyi
 ## Overview
 ### Community Need: 
 The community, represented by the Southeast Environmental Justice Alliance (SEJA), faces multifaceted needs spanning various domains. Primarily, there's a pressing need for a healthier and more sustainable local environment. Their goal is to identify environmental problems, ranging from air pollution to water quality, conservation, and toxic waste, and using scientific data and expert input to present solutions. According to their website, their concerns include 
@@ -29,5 +29,6 @@ The Toxics Release Inventory (TRI) is an information resource available through 
 
 We mainly use the TRI [Dataset](https://github.com/2zOu2/South_Fulton/blob/main/South%20Fulton%20TRI%20data%202020-2022.csv) around South Fulton. It is directly downloaded from the TRI website.
 ### Map Demo
-We aim to create a interactive map to tell the datastory, and we have a [Demo](https://github.com/2zOu2/South_Fulton/blob/main/pollution_map.html) here
+We aim to create a interactive map to tell the datastory, and we have a [Chemical Pollution Map](https://github.com/2zOu2/South_Fulton/blob/main/pollution_map.html) and 
+[Water Pollution Map](https://github.com/2zOu2/South_Fulton/blob/main/monitoring_site_map.html) 
 
