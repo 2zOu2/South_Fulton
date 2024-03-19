@@ -10,11 +10,16 @@ Additionally, SEJA grapples with safety issues such as speeding and worries abou
 These facilities locations serve as point-source polluters, contributing to environmental degradation that impacts air, water, and soil quality in the surrounding areas. Specifically, diesel trucks' emissions exacerbate air pollution, leading to a foul odor permeating the air. This pollution raises concerns about the contaminants present in the air and water, prompting questions about the extent of violations occurring at these facilities. Our team is therefore to help them identify these information regarding pollutants present, their harmful effects, and what actions can be taken to mitigate them. We also need to uncover the transparency regarding the nature of pollutants, identifying severe violations, and implementing measures to rectify them, as the community strives for a healthier and safer environment.
 
 ### Smart Goal
-Specific: Our goal is to identify specific industrial plants contributing to water and air pollution in targeted areas within the community represented by the Southeast Environmental Justice Alliance (SEJA).
-Measurable: We will conduct thorough assessments using scientific methods and data analysis to pinpoint the sources of pollution in the designated areas. This will involve quantifying pollutant levels in water bodies and air samples and correlating them with potential industrial sources.
-Achievable: Leveraging partnerships with environmental agencies, local authorities, and community stakeholders, we will gather necessary data and conduct site investigations to accurately identify pollution sources. We will ensure that our resources and expertise align with the scope of the project. Also rely on tools such as GIS to make it appealing and easily understandable for audience.
-Relevant: Identifying pollution sources is crucial for addressing the community's mission of fostering a healthier and safer environment. By pinpointing specific industrial plants contributing to pollution, we can support SEJA's efforts to advocate for environmental justice and implement targeted mitigation measures.
-Time-bound: Within the next 2 months, we will complete comprehensive assessments in targeted areas to identify specific industrial plants responsible for water and air pollution. Progress will be monitored weekly, with a final report and recommendations provided to SEJA by the end of the timeline.
+#### Specific 
+Our goal is to identify specific industrial plants contributing to water and air pollution in targeted areas within the community represented by the Southeast Environmental Justice Alliance (SEJA).
+#### Measurable
+We will conduct thorough assessments using scientific methods and data analysis to pinpoint the sources of pollution in the designated areas. This will involve quantifying pollutant levels in water bodies and air samples and correlating them with potential industrial sources.
+#### Achievable
+Leveraging partnerships with environmental agencies, local authorities, and community stakeholders, we will gather necessary data and conduct site investigations to accurately identify pollution sources. We will ensure that our resources and expertise align with the scope of the project. Also rely on tools such as GIS to make it appealing and easily understandable for audience.
+#### Relevant
+Identifying pollution sources is crucial for addressing the community's mission of fostering a healthier and safer environment. By pinpointing specific industrial plants contributing to pollution, we can support SEJA's efforts to advocate for environmental justice and implement targeted mitigation measures.
+#### Time-bound 
+Within the next 2 months, we will complete comprehensive assessments in targeted areas to identify specific industrial plants responsible for water and air pollution. Progress will be monitored weekly, with a final report and recommendations provided to SEJA by the end of the timeline.
 
 ## Plan
 Our project focuses on investigating air and water pollution in South Fulton. Here is our [Project Plan](https://github.com/2zOu2/North_Fulton/blob/main/Project%20Plan.xlsx)
