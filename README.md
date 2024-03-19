@@ -9,6 +9,9 @@ Additionally, SEJA grapples with safety issues such as speeding and worries abou
 
 These facilities locations serve as point-source polluters, contributing to environmental degradation that impacts air, water, and soil quality in the surrounding areas. Specifically, diesel trucks' emissions exacerbate air pollution, leading to a foul odor permeating the air. This pollution raises concerns about the contaminants present in the air and water, prompting questions about the extent of violations occurring at these facilities. Our team is therefore to help them identify these information regarding pollutants present, their harmful effects, and what actions can be taken to mitigate them. We also need to uncover the transparency regarding the nature of pollutants, identifying severe violations, and implementing measures to rectify them, as the community strives for a healthier and safer environment.
 
+### So What & Benefit:
+This research process will help us better understand and inform the community with correct information. These point-source polluters not only degrade air, water, and soil quality but also pose risks to public health and well-being. Without information and action, the  the community remains vulnerable to the harmful effects of pollution. Recognising these issues and implementing solutions is therefore critical to the well-being and sustainable development of communities.
+
 ### Smart Goal:
 #### Specific 
 Our goal is to identify specific industrial plants contributing to water and air pollution in targeted areas within the community represented by the Southeast Environmental Justice Alliance (SEJA).
