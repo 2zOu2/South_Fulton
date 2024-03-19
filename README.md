@@ -23,7 +23,7 @@ Leveraging partnerships with environmental agencies, local authorities, and comm
 Identifying pollution sources is crucial for addressing the community's mission of fostering a healthier and safer environment. By pinpointing specific industrial plants contributing to pollution, we can support SEJA's efforts to advocate for environmental justice and implement targeted mitigation measures.
 #### Time-bound 
 Within the next 2 months, we will complete comprehensive assessments in targeted areas to identify specific industrial plants responsible for water and air pollution. Progress will be monitored weekly, with a final report and recommendations provided to SEJA by the end of the timeline.
-
+111
 ## Plan
 Our project focuses on investigating air and water pollution in South Fulton. Here is our [Project Plan](https://github.com/2zOu2/North_Fulton/blob/main/Project%20Plan.xlsx)
 ## Data sources
