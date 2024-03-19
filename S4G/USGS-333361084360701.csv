@@ -1,0 +1,8 @@
+ActivityStartDate,CharacteristicName,ResultSampleFractionText,ResultMeasureValue,ResultMeasure/MeasureUnitCode,StatisticalBaseCode,MonitoringLocationIdentifier,LongitudeMeasure,LatitudeMeasure
+2012-09-11,"Temperature, water",,20.8,deg C,,USGS-333361084360701,-84.3607,33.3361
+2012-09-11,"Stream flow, instantaneous",,0.33,ft3/s,,USGS-333361084360701,-84.3607,33.3361
+2012-09-11,Specific conductance,Total,95,uS/cm @25C,,USGS-333361084360701,-84.3607,33.3361
+2012-09-11,"Acidity, (H+)",Total,0.00016,mg/l,,USGS-333361084360701,-84.3607,33.3361
+2012-09-11,Oxygen,Dissolved,0.5,mg/l,,USGS-333361084360701,-84.3607,33.3361
+2012-09-11,pH,Total,6.8,std units,,USGS-333361084360701,-84.3607,33.3361
+2012-09-11,"Stream flow, instantaneous",,0.01,m3/sec,,USGS-333361084360701,-84.3607,33.3361

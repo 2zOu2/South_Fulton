@@ -1,0 +1,499 @@
+ActivityStartDate,CharacteristicName,ResultSampleFractionText,ResultMeasureValue,ResultMeasure/MeasureUnitCode,StatisticalBaseCode,MonitoringLocationIdentifier,LongitudeMeasure,LatitudeMeasure
+2018-02-07,"Height, gage",,1.88,m,,USGS-023365218,-84.2808,33.4734
+2018-02-07,Stream flow,,2.9,m3/sec,Mean,USGS-023365218,-84.2808,33.4734
+2018-02-07,Stream width measure,,26.0,ft,,USGS-023365218,-84.2808,33.4734
+2018-02-07,"Temperature, water",,12.2,deg C,,USGS-023365218,-84.2808,33.4734
+2018-02-07,"Temperature, air",,16.8,deg C,,USGS-023365218,-84.2808,33.4734
+2018-02-07,Barometric pressure,,741,mm/Hg,,USGS-023365218,-84.2808,33.4734
+2018-02-07,Stream flow,,102,ft3/s,Mean,USGS-023365218,-84.2808,33.4734
+2018-02-07,Number of sampling points,,10,count,,USGS-023365218,-84.2808,33.4734
+2018-02-07,"Height, gage",,6.16,ft,,USGS-023365218,-84.2808,33.4734
+2018-02-07,Specific conductance,Total,56,uS/cm @25C,,USGS-023365218,-84.2808,33.4734
+2018-02-07,"Acidity, (H+)",Total,0.00004,mg/l,,USGS-023365218,-84.2808,33.4734
+2018-02-07,Oxygen,Dissolved,10.2,mg/l,,USGS-023365218,-84.2808,33.4734
+2018-02-07,Oxygen,Dissolved,98,% saturatn,,USGS-023365218,-84.2808,33.4734
+2018-02-07,pH,Total,7.4,std units,,USGS-023365218,-84.2808,33.4734
+2018-02-07,Carbon dioxide,Total,1.1,mg/l,,USGS-023365218,-84.2808,33.4734
+2018-02-07,Total suspended solids,Non-filterable,45,mg/l,,USGS-023365218,-84.2808,33.4734
+2018-02-07,"Nitrogen, mixed forms (NH3), (NH4), organic, (NO2) and (NO3)",Total,1.6,mg/l,,USGS-023365218,-84.2808,33.4734
+2018-02-07,Organic Nitrogen,Total,1.1,mg/l,,USGS-023365218,-84.2808,33.4734
+2018-02-07,Ammonia and ammonium,Total,0.07,mg/l as N,,USGS-023365218,-84.2808,33.4734
+2018-02-07,Kjeldahl nitrogen,Total,1.2,mg/l as N,,USGS-023365218,-84.2808,33.4734
+2018-02-07,Inorganic nitrogen (nitrate and nitrite),Total,0.380,mg/l as N,,USGS-023365218,-84.2808,33.4734
+2018-02-07,Phosphorus,Total,0.20000,mg/l as P,,USGS-023365218,-84.2808,33.4734
+2018-02-07,Phosphorus,Dissolved,0.06500,mg/l as P,,USGS-023365218,-84.2808,33.4734
+2018-02-07,Organic carbon,Total,9.6,mg/l,,USGS-023365218,-84.2808,33.4734
+2018-02-07,"Hardness, Ca, Mg",Total,48,mg/l CaCO3,,USGS-023365218,-84.2808,33.4734
+2018-02-07,Sulfate,Total,4.2,mg/l,,USGS-023365218,-84.2808,33.4734
+2018-02-07,Fluoride,Total,0.340,mg/l,,USGS-023365218,-84.2808,33.4734
+2018-02-07,Arsenic,Recoverable,1.3,ug/l,,USGS-023365218,-84.2808,33.4734
+2018-02-07,Vanadium,Recoverable,13,ug/l,,USGS-023365218,-84.2808,33.4734
+2018-02-07,Beryllium,Recoverable,2.2,ug/l,,USGS-023365218,-84.2808,33.4734
+2018-02-07,Barium,Recoverable,200,ug/l,,USGS-023365218,-84.2808,33.4734
+2018-02-07,Chromium,Recoverable,7,ug/l,,USGS-023365218,-84.2808,33.4734
+2018-02-07,Cobalt,Recoverable,3,ug/l,,USGS-023365218,-84.2808,33.4734
+2018-02-07,Copper,Recoverable,19,ug/l,,USGS-023365218,-84.2808,33.4734
+2018-02-07,Iron,Recoverable,5000,ug/l,,USGS-023365218,-84.2808,33.4734
+2018-02-07,Lead,Recoverable,21,ug/l,,USGS-023365218,-84.2808,33.4734
+2018-02-07,Manganese,Recoverable,130,ug/l,,USGS-023365218,-84.2808,33.4734
+2018-02-07,Thallium,Total,0.24,ug/l,,USGS-023365218,-84.2808,33.4734
+2018-02-07,Strontium,Recoverable,29,ug/l,,USGS-023365218,-84.2808,33.4734
+2018-02-07,Zinc,Recoverable,110,ug/l,,USGS-023365218,-84.2808,33.4734
+2018-02-07,Antimony,Total,1.7,ug/l,,USGS-023365218,-84.2808,33.4734
+2018-02-07,Aluminum,Recoverable,5800,ug/l,,USGS-023365218,-84.2808,33.4734
+2018-02-07,Titanium,Total,180,ug/l,,USGS-023365218,-84.2808,33.4734
+2018-02-07,Yttrium,Total,100,ug/l,,USGS-023365218,-84.2808,33.4734
+2018-02-07,2-Methylnaphthalene,Recoverable,0.2,ug/l,,USGS-023365218,-84.2808,33.4734
+2018-02-07,o-Nitroaniline,Recoverable,5.0,ug/l,,USGS-023365218,-84.2808,33.4734
+2018-02-07,p-Nitroaniline,Recoverable,10,ug/l,,USGS-023365218,-84.2808,33.4734
+2018-02-07,"4,6-Dinitro-o-cresol",Recoverable,10,ug/l,,USGS-023365218,-84.2808,33.4734
+2018-02-07,p-Chloroaniline,Recoverable,10,ug/l,,USGS-023365218,-84.2808,33.4734
+2018-02-07,Acenaphthylene,Recoverable,0.2,ug/l,,USGS-023365218,-84.2808,33.4734
+2018-02-07,Acenaphthene,Recoverable,0.2,ug/l,,USGS-023365218,-84.2808,33.4734
+2018-02-07,Anthracene,Recoverable,0.2,ug/l,,USGS-023365218,-84.2808,33.4734
+2018-02-07,Benzo(b)fluoranthene,Recoverable,0.2,ug/l,,USGS-023365218,-84.2808,33.4734
+2018-02-07,Benzo[k]fluoranthene,Recoverable,0.2,ug/l,,USGS-023365218,-84.2808,33.4734
+2018-02-07,Benzo[a]pyrene,Recoverable,0.2,ug/l,,USGS-023365218,-84.2808,33.4734
+2018-02-07,.delta.-Hexachlorocyclohexane,Recoverable,0.01,ug/l,,USGS-023365218,-84.2808,33.4734
+2018-02-07,Bis(2-chloroethyl) ether,Recoverable,5.0,ug/l,,USGS-023365218,-84.2808,33.4734
+2018-02-07,Bis(2-chloroethoxy)methane,Recoverable,5.0,ug/l,,USGS-023365218,-84.2808,33.4734
+2018-02-07,Bis(2-chloroisopropyl) ether,Recoverable,5.0,ug/l,,USGS-023365218,-84.2808,33.4734
+2018-02-07,Butyl benzyl phthalate,Recoverable,5.0,ug/l,,USGS-023365218,-84.2808,33.4734
+2018-02-07,Chrysene,Recoverable,0.2,ug/l,,USGS-023365218,-84.2808,33.4734
+2018-02-07,Diethyl phthalate,Recoverable,5.0,ug/l,,USGS-023365218,-84.2808,33.4734
+2018-02-07,Dimethyl phthalate,Recoverable,5.0,ug/l,,USGS-023365218,-84.2808,33.4734
+2018-02-07,.beta.-Endosulfan,Recoverable,0.01,ug/l,,USGS-023365218,-84.2808,33.4734
+2018-02-07,Fluoranthene,Recoverable,0.2,ug/l,,USGS-023365218,-84.2808,33.4734
+2018-02-07,Phenanthrene,Recoverable,0.1,ug/l,,USGS-023365218,-84.2808,33.4734
+2018-02-07,Pyrene,Recoverable,0.3,ug/l,,USGS-023365218,-84.2808,33.4734
+2018-02-07,Benzo[ghi]perylene,Recoverable,0.2,ug/l,,USGS-023365218,-84.2808,33.4734
+2018-02-07,Benz[a]anthracene,Recoverable,0.2,ug/l,,USGS-023365218,-84.2808,33.4734
+2018-02-07,"1,2,4-Trichlorobenzene",Recoverable,5.0,ug/l,,USGS-023365218,-84.2808,33.4734
+2018-02-07,"Dibenz[a,h]anthracene",Recoverable,0.2,ug/l,,USGS-023365218,-84.2808,33.4734
+2018-02-07,2-Chloronaphthalene,Recoverable,5.0,ug/l,,USGS-023365218,-84.2808,33.4734
+2018-02-07,o-Chlorophenol,Recoverable,5.0,ug/l,,USGS-023365218,-84.2808,33.4734
+2018-02-07,o-Nitrophenol,Recoverable,5.0,ug/l,,USGS-023365218,-84.2808,33.4734
+2018-02-07,"2,4-Dichlorophenol",Recoverable,5.0,ug/l,,USGS-023365218,-84.2808,33.4734
+2018-02-07,"2,4-Dimethylphenol",Recoverable,5.0,ug/l,,USGS-023365218,-84.2808,33.4734
+2018-02-07,"2,4-Dinitrotoluene",Recoverable,5.0,ug/l,,USGS-023365218,-84.2808,33.4734
+2018-02-07,"2,4-Dinitrophenol",Recoverable,25,ug/l,,USGS-023365218,-84.2808,33.4734
+2018-02-07,"2,6-Dinitrotoluene",Recoverable,5.0,ug/l,,USGS-023365218,-84.2808,33.4734
+2018-02-07,"3,3'-Dichlorobenzidine",Recoverable,20,ug/l,,USGS-023365218,-84.2808,33.4734
+2018-02-07,BDE-003,Recoverable,5.0,ug/l,,USGS-023365218,-84.2808,33.4734
+2018-02-07,p-Chlorophenyl phenyl ether,Recoverable,5.0,ug/l,,USGS-023365218,-84.2808,33.4734
+2018-02-07,p-Nitrophenol,Recoverable,25,ug/l,,USGS-023365218,-84.2808,33.4734
+2018-02-07,Aroclor 1016,Recoverable,0.1,ug/l,,USGS-023365218,-84.2808,33.4734
+2018-02-07,Naphthalene,Recoverable,0.3,ug/l,,USGS-023365218,-84.2808,33.4734
+2018-02-07,Di(2-ethoxylhexyl) phthalate,Recoverable,1.1,ug/l,,USGS-023365218,-84.2808,33.4734
+2018-02-07,Dibutyl phthalate,Recoverable,5.0,ug/l,,USGS-023365218,-84.2808,33.4734
+2018-02-07,"p,p'-DDE",Recoverable,0.01,ug/l,,USGS-023365218,-84.2808,33.4734
+2018-02-07,Aldrin,Recoverable,0.010,ug/l,,USGS-023365218,-84.2808,33.4734
+2018-02-07,.alpha.-Hexachlorocyclohexane,Recoverable,0.01,ug/l,,USGS-023365218,-84.2808,33.4734
+2018-02-07,.beta.-Hexachlorocyclohexane,Recoverable,0.01,ug/l,,USGS-023365218,-84.2808,33.4734
+2018-02-07,gamma-HCH (Lindane),Recoverable,0.0180,ug/l,,USGS-023365218,-84.2808,33.4734
+2018-02-07,Dieldrin,Recoverable,0.010,ug/l,,USGS-023365218,-84.2808,33.4734
+2018-02-07,Endrin,Recoverable,0.010,ug/l,,USGS-023365218,-84.2808,33.4734
+2018-02-07,Heptachlor,Recoverable,0.005,ug/l,,USGS-023365218,-84.2808,33.4734
+2018-02-07,Heptachlor epoxide,Recoverable,0.010,ug/l,,USGS-023365218,-84.2808,33.4734
+2018-02-07,Methoxychlor,Recoverable,0.010,ug/l,,USGS-023365218,-84.2808,33.4734
+2018-02-07,Aroclor 1221,Recoverable,0.1,ug/l,,USGS-023365218,-84.2808,33.4734
+2018-02-07,Aroclor 1232,Recoverable,0.1,ug/l,,USGS-023365218,-84.2808,33.4734
+2018-02-07,Aroclor 1242,Recoverable,0.1,ug/l,,USGS-023365218,-84.2808,33.4734
+2018-02-07,Aroclor 1248,Recoverable,0.1,ug/l,,USGS-023365218,-84.2808,33.4734
+2018-02-07,Aroclor 1254,Recoverable,0.1,ug/l,,USGS-023365218,-84.2808,33.4734
+2018-02-07,Aroclor 1260,Recoverable,0.1,ug/l,,USGS-023365218,-84.2808,33.4734
+2018-02-07,Atrazine,Recoverable,5.0,ug/l,,USGS-023365218,-84.2808,33.4734
+2018-02-07,Hexachlorobenzene,Recoverable,5.0,ug/l,,USGS-023365218,-84.2808,33.4734
+2018-02-07,"2,2,4,5,6,7,8,8-Octachloro-2,3,3a,4,7,7a-hexahydro-4,7-methano-1H-indene",Recoverable,0.01,ug/l,,USGS-023365218,-84.2808,33.4734
+2018-02-07,"Fuel, Diesel Range (C10-C28)",Recoverable,640,ug/l,,USGS-023365218,-84.2808,33.4734
+2018-02-07,Turbidity,Total,110,FNU,,USGS-023365218,-84.2808,33.4734
+2018-02-07,Suspended Sediment Concentration (SSC),Suspended,71,%,,USGS-023365218,-84.2808,33.4734
+2018-02-07,Ammonia and ammonium,Total,0.088,mg/l NH4,,USGS-023365218,-84.2808,33.4734
+2018-02-07,"Nitrogen, mixed forms (NH3), (NH4), organic, (NO2) and (NO3)",Total,7.0,mg/l NO3,,USGS-023365218,-84.2808,33.4734
+2018-02-07,p-Cresol,Recoverable,10,ug/l,,USGS-023365218,-84.2808,33.4734
+2018-02-07,o-Cresol,Recoverable,5.0,ug/l,,USGS-023365218,-84.2808,33.4734
+2018-02-07,Carbazole,Recoverable,5.0,ug/l,,USGS-023365218,-84.2808,33.4734
+2018-02-07,"2,4,5-Trichlorophenol",Recoverable,5.0,ug/l,,USGS-023365218,-84.2808,33.4734
+2018-02-07,"2,3,4,6-Tetrachlorophenol",Recoverable,5.0,ug/l,,USGS-023365218,-84.2808,33.4734
+2018-02-07,.alpha.-Chlordene,Recoverable,0.01,ug/l,,USGS-023365218,-84.2808,33.4734
+2018-02-07,Endrin ketone,Recoverable,0.01,ug/l,,USGS-023365218,-84.2808,33.4734
+2018-02-07,m-Nitroaniline,Recoverable,10,ug/l,,USGS-023365218,-84.2808,33.4734
+2018-02-07,Suspended Sediment Concentration (SSC),Suspended,172,mg/l,,USGS-023365218,-84.2808,33.4734
+2018-02-07,Dibenzofuran,Recoverable,4.0,ug/l,,USGS-023365218,-84.2808,33.4734
+2018-02-07,Benzaldehyde,Recoverable,5.0,ug/l,,USGS-023365218,-84.2808,33.4734
+2018-02-07,"1,4-Dioxane",Recoverable,1.00,ug/l,,USGS-023365218,-84.2808,33.4734
+2018-02-07,Aroclor 1262,Recoverable,0.10,ug/l,,USGS-023365218,-84.2808,33.4734
+2018-02-07,1-Methylnaphthalene,Recoverable,0.1,ug/l,,USGS-023365218,-84.2808,33.4734
+2018-02-07,Calcium,Total,7100,ug/l,,USGS-023365218,-84.2808,33.4734
+2018-02-07,Magnesium,Total,1400,ug/l,,USGS-023365218,-84.2808,33.4734
+2018-02-07,Potassium,Total,3600,ug/l,,USGS-023365218,-84.2808,33.4734
+2018-02-07,Sodium,Total,2600,ug/l,,USGS-023365218,-84.2808,33.4734
+2018-02-07,Alkalinity,Total,13,mg/l CaCO3,,USGS-023365218,-84.2808,33.4734
+2018-02-07,Eicosane,Recoverable,93.8,%,,USGS-023365218,-84.2808,33.4734
+2018-02-07,Squalene,Recoverable,63.8,%,,USGS-023365218,-84.2808,33.4734
+2018-02-07,"2,4,6-Tribromophenol",Total,107,%,,USGS-023365218,-84.2808,33.4734
+2018-02-07,o-Fluorophenol,Total,45.8,%,,USGS-023365218,-84.2808,33.4734
+2018-02-07,Phenol-d5,Total,27.1,%,,USGS-023365218,-84.2808,33.4734
+2018-02-07,Nitrobenzene-D5,Total,55.0,%,,USGS-023365218,-84.2808,33.4734
+2018-02-07,p-Terphenyl-d14,Total,126,%,,USGS-023365218,-84.2808,33.4734
+2018-02-07,2-Fluorobiphenyl,Total,80.4,%,,USGS-023365218,-84.2808,33.4734
+2018-02-07,Chloride,Total,2.3,mg/l,,USGS-023365218,-84.2808,33.4734
+2017-10-23,Stream width measure,,20.0,ft,,USGS-023365218,-84.2808,33.4734
+2017-10-23,"Temperature, water",,19.1,deg C,,USGS-023365218,-84.2808,33.4734
+2017-10-23,"Temperature, air",,19.4,deg C,,USGS-023365218,-84.2808,33.4734
+2017-10-23,Barometric pressure,,734,mm/Hg,,USGS-023365218,-84.2808,33.4734
+2017-10-23,Cloud cover,,60,%,,USGS-023365218,-84.2808,33.4734
+2017-10-23,Stream flow,,28,ft3/s,Mean,USGS-023365218,-84.2808,33.4734
+2017-10-23,Number of sampling points,,10,count,,USGS-023365218,-84.2808,33.4734
+2017-10-23,"Height, gage",,5.98,ft,,USGS-023365218,-84.2808,33.4734
+2017-10-23,Specific conductance,Total,52,uS/cm @25C,,USGS-023365218,-84.2808,33.4734
+2017-10-23,"Acidity, (H+)",Total,0.00009,mg/l,,USGS-023365218,-84.2808,33.4734
+2017-10-23,Oxygen,Dissolved,8.7,mg/l,,USGS-023365218,-84.2808,33.4734
+2017-10-23,Oxygen,Dissolved,97,% saturatn,,USGS-023365218,-84.2808,33.4734
+2017-10-23,pH,Total,7.0,std units,,USGS-023365218,-84.2808,33.4734
+2017-10-23,Carbon dioxide,Total,2.7,mg/l,,USGS-023365218,-84.2808,33.4734
+2017-10-23,Total suspended solids,Non-filterable,180,mg/l,,USGS-023365218,-84.2808,33.4734
+2017-10-23,"Nitrogen, mixed forms (NH3), (NH4), organic, (NO2) and (NO3)",Total,1.7,mg/l,,USGS-023365218,-84.2808,33.4734
+2017-10-23,Organic Nitrogen,Total,0.51,mg/l,,USGS-023365218,-84.2808,33.4734
+2017-10-23,Ammonia and ammonium,Total,0.89,mg/l as N,,USGS-023365218,-84.2808,33.4734
+2017-10-23,Kjeldahl nitrogen,Total,1.4,mg/l as N,,USGS-023365218,-84.2808,33.4734
+2017-10-23,Inorganic nitrogen (nitrate and nitrite),Total,0.300,mg/l as N,,USGS-023365218,-84.2808,33.4734
+2017-10-23,Phosphorus,Total,0.41000,mg/l as P,,USGS-023365218,-84.2808,33.4734
+2017-10-23,Phosphorus,Dissolved,0.05600,mg/l as P,,USGS-023365218,-84.2808,33.4734
+2017-10-23,Organic carbon,Total,8.4,mg/l,,USGS-023365218,-84.2808,33.4734
+2017-10-23,"Hardness, Ca, Mg",Total,24,mg/l CaCO3,,USGS-023365218,-84.2808,33.4734
+2017-10-23,Sulfate,Total,6.0,mg/l,,USGS-023365218,-84.2808,33.4734
+2017-10-23,Fluoride,Total,0.500,mg/l,,USGS-023365218,-84.2808,33.4734
+2017-10-23,Arsenic,Recoverable,5.9,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-10-23,Vanadium,Recoverable,16,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-10-23,Beryllium,Recoverable,0.6,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-10-23,Barium,Recoverable,76,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-10-23,Cadmium,Total,3.9,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-10-23,Chromium,Recoverable,7,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-10-23,Cobalt,Recoverable,3,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-10-23,Copper,Recoverable,24,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-10-23,Iron,Recoverable,8000,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-10-23,Lead,Recoverable,32,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-10-23,Manganese,Recoverable,230,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-10-23,Thallium,Total,3.6,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-10-23,Molybdenum,Recoverable,10,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-10-23,Nickel,Recoverable,100,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-10-23,Silver,Recoverable,20,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-10-23,Strontium,Recoverable,33,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-10-23,Zinc,Recoverable,120,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-10-23,Antimony,Total,1.5,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-10-23,Tin,Recoverable,200,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-10-23,Aluminum,Recoverable,9200,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-10-23,Titanium,Total,290,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-10-23,Yttrium,Total,100,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-10-23,2-Methylnaphthalene,Recoverable,0.1,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-10-23,o-Nitroaniline,Recoverable,5.3,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-10-23,p-Nitroaniline,Recoverable,11,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-10-23,"4,6-Dinitro-o-cresol",Recoverable,11,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-10-23,"Height, gage",,1.82,m,,USGS-023365218,-84.2808,33.4734
+2017-10-23,Stream flow,,0.80,m3/sec,Mean,USGS-023365218,-84.2808,33.4734
+2017-10-23,p-Chloroaniline,Recoverable,11,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-10-23,Acenaphthylene,Recoverable,0.2,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-10-23,Acenaphthene,Recoverable,0.2,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-10-23,Anthracene,Recoverable,0.2,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-10-23,Benzo(b)fluoranthene,Recoverable,0.2,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-10-23,Benzo[k]fluoranthene,Recoverable,0.2,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-10-23,Benzo[a]pyrene,Recoverable,0.2,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-10-23,.delta.-Hexachlorocyclohexane,Recoverable,0.01,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-10-23,Bis(2-chloroethyl) ether,Recoverable,5,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-10-23,Bis(2-chloroethoxy)methane,Recoverable,5,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-10-23,Bis(2-chloroisopropyl) ether,Recoverable,5,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-10-23,Turbidity,Total,180,FNU,,USGS-023365218,-84.2808,33.4734
+2017-10-23,Butyl benzyl phthalate,Recoverable,5,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-10-23,Chrysene,Recoverable,0.1,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-10-23,Diethyl phthalate,Recoverable,5,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-10-23,Dimethyl phthalate,Recoverable,5,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-10-23,.beta.-Endosulfan,Recoverable,0.01,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-10-23,Fluoranthene,Recoverable,0.2,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-10-23,Fluorene,Recoverable,0.2,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-10-23,Hexachlorocyclopentadiene,Recoverable,5,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-10-23,Hexachlorobutadiene,Recoverable,5.3,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-10-23,Hexachloroethane,Recoverable,5,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-10-23,"Indeno[1,2,3-cd]pyrene",Recoverable,0.2,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-10-23,Isophorone,Recoverable,5,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-10-23,N-Nitrosodi-n-propylamine,Recoverable,5,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-10-23,N-Nitrosodiphenylamine,Recoverable,5,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-10-23,Nitrobenzene,Recoverable,3,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-10-23,p-Chloro-m-cresol,Recoverable,5,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-10-23,Aldrin,Recoverable,0.009,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-10-23,Phenanthrene,Recoverable,0.1,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-10-23,Pyrene,Recoverable,0.8,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-10-23,Benzo[ghi]perylene,Recoverable,0.2,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-10-23,Benz[a]anthracene,Recoverable,0.2,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-10-23,"1,2,4-Trichlorobenzene",Recoverable,5,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-10-23,"Dibenz[a,h]anthracene",Recoverable,0.2,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-10-23,2-Chloronaphthalene,Recoverable,5,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-10-23,o-Chlorophenol,Recoverable,5,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-10-23,o-Nitrophenol,Recoverable,5,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-10-23,Di-n-octyl phthalate,Recoverable,5,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-10-23,"2,4-Dichlorophenol",Recoverable,5,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-10-23,"2,4-Dimethylphenol",Recoverable,5.3,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-10-23,"2,4-Dinitrotoluene",Recoverable,5,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-10-23,"2,4-Dinitrophenol",Recoverable,26,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-10-23,"2,4,6-Trichlorophenol",Recoverable,4,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-10-23,"2,6-Dinitrotoluene",Recoverable,5,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-10-23,"3,3'-Dichlorobenzidine",Recoverable,21,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-10-23,BDE-003,Recoverable,5,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-10-23,p-Chlorophenyl phenyl ether,Recoverable,5,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-10-23,p-Nitrophenol,Recoverable,26,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-10-23,Aroclor 1016,Recoverable,0.1,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-10-23,Phenol,Recoverable,5.3,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-10-23,Naphthalene,Recoverable,0.3,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-10-23,Pentachlorophenol,Recoverable,5,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-10-23,Di(2-ethoxylhexyl) phthalate,Recoverable,5.3,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-10-23,Dibutyl phthalate,Recoverable,5,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-10-23,"p,p'-DDE",Recoverable,0.01,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-10-23,.alpha.-Hexachlorocyclohexane,Recoverable,0.01,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-10-23,.beta.-Hexachlorocyclohexane,Recoverable,0.01,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-10-23,gamma-HCH (Lindane),Recoverable,0.0091,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-10-23,Dieldrin,Recoverable,0.009,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-10-23,Endrin,Recoverable,0.009,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-10-23,Heptachlor,Recoverable,0.009,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-10-23,Heptachlor epoxide,Recoverable,0.009,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-10-23,Methoxychlor,Recoverable,0.009,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-10-23,Aroclor 1221,Recoverable,0.1,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-10-23,Aroclor 1232,Recoverable,0.1,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-10-23,Aroclor 1242,Recoverable,0.1,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-10-23,Aroclor 1248,Recoverable,0.1,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-10-23,Aroclor 1254,Recoverable,0.1,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-10-23,Aroclor 1260,Recoverable,0.1,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-10-23,Atrazine,Recoverable,5.3,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-10-23,Hexachlorobenzene,Recoverable,5,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-10-23,"2,2,4,5,6,7,8,8-Octachloro-2,3,3a,4,7,7a-hexahydro-4,7-methano-1H-indene",Recoverable,0.01,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-10-23,"Fuel, Diesel Range (C10-C28)",Recoverable,620,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-10-23,Acetophenone,Recoverable,5.3,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-10-23,Bromide,Total,0.250,mg/l,,USGS-023365218,-84.2808,33.4734
+2017-10-23,Aroclor (unspecified),Recoverable,0.09,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-10-23,Biphenyl,Recoverable,5,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-10-23,Caprolactam,Recoverable,5.3,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-10-23,Suspended Sediment Concentration (SSC),Suspended,77,%,,USGS-023365218,-84.2808,33.4734
+2017-10-23,Ammonia and ammonium,Total,1.15,mg/l NH4,,USGS-023365218,-84.2808,33.4734
+2017-10-23,"Nitrogen, mixed forms (NH3), (NH4), organic, (NO2) and (NO3)",Total,7.5,mg/l NO3,,USGS-023365218,-84.2808,33.4734
+2017-10-23,Mercury,Recoverable,0.20,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-10-23,p-Cresol,Recoverable,11,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-10-23,o-Cresol,Recoverable,5.3,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-10-23,Carbazole,Recoverable,5.3,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-10-23,"2,4,5-Trichlorophenol",Recoverable,5.3,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-10-23,"2,3,4,6-Tetrachlorophenol",Recoverable,5.3,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-10-23,.alpha.-Chlordene,Recoverable,0.01,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-10-23,Endrin ketone,Recoverable,0.01,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-10-23,m-Nitroaniline,Recoverable,11,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-10-23,Suspended Sediment Concentration (SSC),Suspended,319,mg/l,,USGS-023365218,-84.2808,33.4734
+2017-10-23,Dibenzofuran,Recoverable,4.2,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-10-23,Benzaldehyde,Recoverable,5,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-10-23,"1,4-Dioxane",Recoverable,1.10,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-10-23,Aroclor 1262,Recoverable,0.09,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-10-23,Aroclor 1268,Recoverable,0.091,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-10-23,1-Methylnaphthalene,Recoverable,0.1,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-10-23,Calcium,Total,7800,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-10-23,Magnesium,Total,1900,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-10-23,Potassium,Total,4700,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-10-23,Sodium,Total,1600,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-10-23,Alkalinity,Total,15,mg/l CaCO3,,USGS-023365218,-84.2808,33.4734
+2017-10-23,Eicosane,Recoverable,87.1,%,,USGS-023365218,-84.2808,33.4734
+2017-10-23,Squalene,Recoverable,82.1,%,,USGS-023365218,-84.2808,33.4734
+2017-10-23,"2,4,6-Tribromophenol",Total,6.8,%,,USGS-023365218,-84.2808,33.4734
+2017-10-23,o-Fluorophenol,Total,4.9,%,,USGS-023365218,-84.2808,33.4734
+2017-10-23,Phenol-d5,Total,12.1,%,,USGS-023365218,-84.2808,33.4734
+2017-10-23,Nitrobenzene-D5,Total,59,%,,USGS-023365218,-84.2808,33.4734
+2017-10-23,p-Terphenyl-d14,Total,84,%,,USGS-023365218,-84.2808,33.4734
+2017-10-23,2-Fluorobiphenyl,Total,52,%,,USGS-023365218,-84.2808,33.4734
+2017-10-23,Chloride,Total,0.89,mg/l,,USGS-023365218,-84.2808,33.4734
+2017-08-31,"Nitrogen, mixed forms (NH3), (NH4), organic, (NO2) and (NO3)",Total,1.1,mg/l,,USGS-023365218,-84.2808,33.4734
+2017-08-31,Stream width measure,,20.0,ft,,USGS-023365218,-84.2808,33.4734
+2017-08-31,"Temperature, water",,22.1,deg C,,USGS-023365218,-84.2808,33.4734
+2017-08-31,"Temperature, air",,24.1,deg C,,USGS-023365218,-84.2808,33.4734
+2017-08-31,Barometric pressure,,741,mm/Hg,,USGS-023365218,-84.2808,33.4734
+2017-08-31,Cloud cover,,100,%,,USGS-023365218,-84.2808,33.4734
+2017-08-31,Number of sampling points,,10,count,,USGS-023365218,-84.2808,33.4734
+2017-08-31,"Height, gage",,5.27,ft,,USGS-023365218,-84.2808,33.4734
+2017-08-31,Specific conductance,Total,78,uS/cm @25C,,USGS-023365218,-84.2808,33.4734
+2017-08-31,"Acidity, (H+)",Total,0.00007,mg/l,,USGS-023365218,-84.2808,33.4734
+2017-08-31,Oxygen,Dissolved,8.0,mg/l,,USGS-023365218,-84.2808,33.4734
+2017-08-31,Oxygen,Dissolved,94,% saturatn,,USGS-023365218,-84.2808,33.4734
+2017-08-31,pH,Total,7.1,std units,,USGS-023365218,-84.2808,33.4734
+2017-08-31,Carbon dioxide,Total,3.5,mg/l,,USGS-023365218,-84.2808,33.4734
+2017-08-31,Total suspended solids,Non-filterable,84,mg/l,,USGS-023365218,-84.2808,33.4734
+2017-08-31,Organic Nitrogen,Total,0.64,mg/l,,USGS-023365218,-84.2808,33.4734
+2017-08-31,Ammonia and ammonium,Total,0.23,mg/l as N,,USGS-023365218,-84.2808,33.4734
+2017-08-31,Kjeldahl nitrogen,Total,0.87,mg/l as N,,USGS-023365218,-84.2808,33.4734
+2017-08-31,Inorganic nitrogen (nitrate and nitrite),Total,0.280,mg/l as N,,USGS-023365218,-84.2808,33.4734
+2017-08-31,Phosphorus,Total,0.24000,mg/l as P,,USGS-023365218,-84.2808,33.4734
+2017-08-31,Phosphorus,Dissolved,0.05000,mg/l as P,,USGS-023365218,-84.2808,33.4734
+2017-08-31,Organic carbon,Total,10,mg/l,,USGS-023365218,-84.2808,33.4734
+2017-08-31,"Hardness, Ca, Mg",Total,160,mg/l CaCO3,,USGS-023365218,-84.2808,33.4734
+2017-08-31,Sulfate,Total,7.4,mg/l,,USGS-023365218,-84.2808,33.4734
+2017-08-31,Fluoride,Total,0.500,mg/l,,USGS-023365218,-84.2808,33.4734
+2017-08-31,Yttrium,Total,100,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-08-31,Arsenic,Recoverable,1.0,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-08-31,Vanadium,Recoverable,50,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-08-31,Beryllium,Recoverable,0.3,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-08-31,Barium,Recoverable,200,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-08-31,Cadmium,Total,1.0,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-08-31,Chromium,Recoverable,4,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-08-31,Cobalt,Recoverable,20,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-08-31,Copper,Recoverable,100,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-08-31,Iron,Recoverable,2100,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-08-31,Lead,Recoverable,16,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-08-31,Manganese,Recoverable,150,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-08-31,Thallium,Total,2.0,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-08-31,Molybdenum,Recoverable,10,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-08-31,Nickel,Recoverable,100,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-08-31,Silver,Recoverable,20,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-08-31,Strontium,Recoverable,39,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-08-31,Zinc,Recoverable,41,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-08-31,Antimony,Total,1.9,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-08-31,Tin,Recoverable,200,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-08-31,Aluminum,Recoverable,1600,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-08-31,Selenium,Total,5.0,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-08-31,Titanium,Total,58,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-08-31,2-Methylnaphthalene,Recoverable,0.2,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-08-31,o-Nitroaniline,Recoverable,4.9,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-08-31,p-Nitroaniline,Recoverable,9.8,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-08-31,"4,6-Dinitro-o-cresol",Recoverable,9.8,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-08-31,"Height, gage",,1.61,m,,USGS-023365218,-84.2808,33.4734
+2017-08-31,p-Chloroaniline,Recoverable,9.8,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-08-31,.delta.-Hexachlorocyclohexane,Recoverable,0.01,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-08-31,Bis(2-chloroethyl) ether,Recoverable,5,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-08-31,Bis(2-chloroethoxy)methane,Recoverable,5,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-08-31,Bis(2-chloroisopropyl) ether,Recoverable,5,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-08-31,Butyl benzyl phthalate,Recoverable,5,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-08-31,Chrysene,Recoverable,0.05,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-08-31,Diethyl phthalate,Recoverable,5,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-08-31,Dimethyl phthalate,Recoverable,5,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-08-31,.beta.-Endosulfan,Recoverable,0.01,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-08-31,Fluoranthene,Recoverable,0.09,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-08-31,Hexachlorocyclopentadiene,Recoverable,5,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-08-31,Hexachlorobutadiene,Recoverable,4.9,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-08-31,Hexachloroethane,Recoverable,5,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-08-31,"Indeno[1,2,3-cd]pyrene",Recoverable,0.180,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-08-31,Isophorone,Recoverable,5,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-08-31,N-Nitrosodi-n-propylamine,Recoverable,5,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-08-31,N-Nitrosodiphenylamine,Recoverable,5,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-08-31,Nitrobenzene,Recoverable,3,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-08-31,p-Chloro-m-cresol,Recoverable,5,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-08-31,Pyrene,Recoverable,0.08,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-08-31,Benz[a]anthracene,Recoverable,0.13,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-08-31,"1,2,4-Trichlorobenzene",Recoverable,5,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-08-31,2-Chloronaphthalene,Recoverable,5,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-08-31,o-Chlorophenol,Recoverable,5,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-08-31,o-Nitrophenol,Recoverable,5,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-08-31,Di-n-octyl phthalate,Recoverable,5,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-08-31,"2,4-Dichlorophenol",Recoverable,5,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-08-31,"2,4-Dimethylphenol",Recoverable,4.9,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-08-31,"2,4-Dinitrotoluene",Recoverable,5,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-08-31,"2,4-Dinitrophenol",Recoverable,25,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-08-31,"2,4,6-Trichlorophenol",Recoverable,4,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-08-31,"2,6-Dinitrotoluene",Recoverable,5,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-08-31,"3,3'-Dichlorobenzidine",Recoverable,20,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-08-31,BDE-003,Recoverable,5,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-08-31,p-Chlorophenyl phenyl ether,Recoverable,5,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-08-31,p-Nitrophenol,Recoverable,25,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-08-31,Aroclor 1016,Recoverable,0.1,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-08-31,Phenol,Recoverable,4.9,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-08-31,Pentachlorophenol,Recoverable,5,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-08-31,Dibutyl phthalate,Recoverable,5,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-08-31,"p,p'-DDE",Recoverable,0.01,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-08-31,Aldrin,Recoverable,0.010,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-08-31,.alpha.-Hexachlorocyclohexane,Recoverable,0.01,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-08-31,.beta.-Hexachlorocyclohexane,Recoverable,0.01,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-08-31,gamma-HCH (Lindane),Recoverable,0.0098,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-08-31,Dieldrin,Recoverable,0.010,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-08-31,Endrin,Recoverable,0.010,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-08-31,Heptachlor,Recoverable,0.010,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-08-31,Heptachlor epoxide,Recoverable,0.010,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-08-31,Methoxychlor,Recoverable,0.010,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-08-31,Aroclor 1221,Recoverable,0.1,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-08-31,Aroclor 1232,Recoverable,0.1,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-08-31,Aroclor 1242,Recoverable,0.1,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-08-31,Aroclor 1248,Recoverable,0.1,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-08-31,Aroclor 1254,Recoverable,0.1,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-08-31,Atrazine,Recoverable,4.9,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-08-31,Hexachlorobenzene,Recoverable,5,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-08-31,"2,2,4,5,6,7,8,8-Octachloro-2,3,3a,4,7,7a-hexahydro-4,7-methano-1H-indene",Recoverable,0.01,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-08-31,"Fuel, Diesel Range (C10-C28)",Recoverable,950,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-08-31,Acetophenone,Recoverable,4.9,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-08-31,Turbidity,Total,69,FNU,,USGS-023365218,-84.2808,33.4734
+2017-08-31,Bromide,Total,0.250,mg/l,,USGS-023365218,-84.2808,33.4734
+2017-08-31,Aroclor (unspecified),Recoverable,0.10,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-08-31,Biphenyl,Recoverable,5,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-08-31,Ammonia and ammonium,Total,0.296,mg/l NH4,,USGS-023365218,-84.2808,33.4734
+2017-08-31,"Nitrogen, mixed forms (NH3), (NH4), organic, (NO2) and (NO3)",Total,5.1,mg/l NO3,,USGS-023365218,-84.2808,33.4734
+2017-08-31,Mercury,Recoverable,0.20,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-08-31,p-Cresol,Recoverable,10,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-08-31,o-Cresol,Recoverable,4.9,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-08-31,Carbazole,Recoverable,0.9,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-08-31,"2,4,5-Trichlorophenol",Recoverable,4.9,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-08-31,"2,3,4,6-Tetrachlorophenol",Recoverable,4.9,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-08-31,.alpha.-Chlordene,Recoverable,0.01,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-08-31,Endrin ketone,Recoverable,0.01,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-08-31,m-Nitroaniline,Recoverable,9.8,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-08-31,Dibenzofuran,Recoverable,3.9,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-08-31,Benzaldehyde,Recoverable,5,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-08-31,Aroclor 1262,Recoverable,0.10,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-08-31,Aroclor 1268,Recoverable,0.098,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-08-31,1-Methylnaphthalene,Recoverable,0.2,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-08-31,Calcium,Total,8400,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-08-31,Magnesium,Total,1200,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-08-31,Potassium,Total,3700,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-08-31,Sodium,Total,3200,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-08-31,Alkalinity,Total,24,mg/l CaCO3,,USGS-023365218,-84.2808,33.4734
+2017-08-31,Eicosane,Recoverable,118,%,,USGS-023365218,-84.2808,33.4734
+2017-08-31,Squalene,Recoverable,103,%,,USGS-023365218,-84.2808,33.4734
+2017-08-31,"2,4,6-Tribromophenol",Total,69.0,%,,USGS-023365218,-84.2808,33.4734
+2017-08-31,o-Fluorophenol,Total,35.6,%,,USGS-023365218,-84.2808,33.4734
+2017-08-31,Phenol-d5,Total,25.3,%,,USGS-023365218,-84.2808,33.4734
+2017-08-31,Nitrobenzene-D5,Total,46,%,,USGS-023365218,-84.2808,33.4734
+2017-08-31,p-Terphenyl-d14,Total,63,%,,USGS-023365218,-84.2808,33.4734
+2017-08-31,2-Fluorobiphenyl,Total,46,%,,USGS-023365218,-84.2808,33.4734
+2017-08-31,Chloride,Total,2.8,mg/l,,USGS-023365218,-84.2808,33.4734
+2017-07-31,Stream width measure,,2.00,ft,,USGS-023365218,-84.2808,33.4734
+2017-07-31,"Temperature, water",,21.4,deg C,,USGS-023365218,-84.2808,33.4734
+2017-07-31,"Temperature, air",,24.4,deg C,,USGS-023365218,-84.2808,33.4734
+2017-07-31,Barometric pressure,,745,mm/Hg,,USGS-023365218,-84.2808,33.4734
+2017-07-31,Number of sampling points,,1,count,,USGS-023365218,-84.2808,33.4734
+2017-07-31,"Height, gage",,4.14,ft,,USGS-023365218,-84.2808,33.4734
+2017-07-31,Specific conductance,Total,232,uS/cm @25C,,USGS-023365218,-84.2808,33.4734
+2017-07-31,"Acidity, (H+)",Total,0.00003,mg/l,,USGS-023365218,-84.2808,33.4734
+2017-07-31,Oxygen,Dissolved,7.4,mg/l,,USGS-023365218,-84.2808,33.4734
+2017-07-31,Oxygen,Dissolved,85,% saturatn,,USGS-023365218,-84.2808,33.4734
+2017-07-31,pH,Total,7.5,std units,,USGS-023365218,-84.2808,33.4734
+2017-07-31,Carbon dioxide,Total,4.1,mg/l,,USGS-023365218,-84.2808,33.4734
+2017-07-31,"Nitrogen, mixed forms (NH3), (NH4), organic, (NO2) and (NO3)",Total,1.2,mg/l,,USGS-023365218,-84.2808,33.4734
+2017-07-31,Kjeldahl nitrogen,Total,0.40,mg/l as N,,USGS-023365218,-84.2808,33.4734
+2017-07-31,Inorganic nitrogen (nitrate and nitrite),Total,0.800,mg/l as N,,USGS-023365218,-84.2808,33.4734
+2017-07-31,Phosphorus,Total,0.05200,mg/l as P,,USGS-023365218,-84.2808,33.4734
+2017-07-31,Phosphorus,Dissolved,0.02300,mg/l as P,,USGS-023365218,-84.2808,33.4734
+2017-07-31,Organic carbon,Total,2.9,mg/l,,USGS-023365218,-84.2808,33.4734
+2017-07-31,"Hardness, Ca, Mg",Total,80,mg/l CaCO3,,USGS-023365218,-84.2808,33.4734
+2017-07-31,Sulfate,Total,16,mg/l,,USGS-023365218,-84.2808,33.4734
+2017-07-31,Fluoride,Total,0.290,mg/l,,USGS-023365218,-84.2808,33.4734
+2017-07-31,Iron,Recoverable,500,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-07-31,Lead,Recoverable,0.54,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-07-31,Manganese,Recoverable,34,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-07-31,Strontium,Recoverable,110,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-07-31,Aluminum,Recoverable,48,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-07-31,"Height, gage",,1.26,m,,USGS-023365218,-84.2808,33.4734
+2017-07-31,Turbidity,Total,2.0,FNU,,USGS-023365218,-84.2808,33.4734
+2017-07-31,Suspended Sediment Concentration (SSC),Suspended,87,%,,USGS-023365218,-84.2808,33.4734
+2017-07-31,"Nitrogen, mixed forms (NH3), (NH4), organic, (NO2) and (NO3)",Total,5.3,mg/l NO3,,USGS-023365218,-84.2808,33.4734
+2017-07-31,Suspended Sediment Concentration (SSC),Suspended,4,mg/l,,USGS-023365218,-84.2808,33.4734
+2017-07-31,Calcium,Total,21000,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-07-31,Magnesium,Total,3500,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-07-31,Potassium,Total,3800,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-07-31,Sodium,Total,17000,ug/l,,USGS-023365218,-84.2808,33.4734
+2017-07-31,Alkalinity,Total,69,mg/l CaCO3,,USGS-023365218,-84.2808,33.4734
+2017-07-31,Eicosane,Recoverable,74.0,%,,USGS-023365218,-84.2808,33.4734
+2017-07-31,Squalene,Recoverable,70.9,%,,USGS-023365218,-84.2808,33.4734
+2017-07-31,"2,4,6-Tribromophenol",Total,113,%,,USGS-023365218,-84.2808,33.4734
+2017-07-31,o-Fluorophenol,Total,43.1,%,,USGS-023365218,-84.2808,33.4734
+2017-07-31,Phenol-d5,Total,28.1,%,,USGS-023365218,-84.2808,33.4734
+2017-07-31,Nitrobenzene-D5,Total,74.0,%,,USGS-023365218,-84.2808,33.4734
+2017-07-31,p-Terphenyl-d14,Total,128,%,,USGS-023365218,-84.2808,33.4734
+2017-07-31,2-Fluorobiphenyl,Total,82.1,%,,USGS-023365218,-84.2808,33.4734
+2017-07-31,Chloride,Total,16,mg/l,,USGS-023365218,-84.2808,33.4734
