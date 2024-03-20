@@ -19,15 +19,16 @@ This research process will help us better understand and inform the community wi
 #### Specific 
 Our goal is to identify specific industrial plants contributing to water and air pollution in targeted areas within the community represented by the Southeast Environmental Justice Alliance (SEJA).
 #### Measurable
-We will conduct thorough assessments using scientific methods and data analysis to pinpoint the sources of pollution in the designated areas. This will involve quantifying pollutant levels in water bodies and air samples and correlating them with potential industrial sources.
+We will conduct thorough assessments using scientific methods and data analysis to pinpoint the sources of pollution in the designated areas. This will involve quantifying pollutant levels in water bodies and air samples and correlating them with potential industrial sources. Measurable variables will include geographic coordinates (e.g., latitude and longitude) and the concentration of chemical pollutants.
 #### Achievable
-Leveraging partnerships with environmental agencies, local authorities, and community stakeholders, we will gather necessary data and conduct site investigations to accurately identify pollution sources. We will ensure that our resources and expertise align with the scope of the project. Also rely on tools such as GIS to make it appealing and easily understandable for audience.
+By harnessing partnerships with environmental agencies, local authorities, and community stakeholders (such as University of Georgia and the United States Environmental Protection Agency), we will gather necessary data and conduct site investigations to accurately identify pollution sources. We will ensure that our resources and expertise align with the scope of the project. Additionally, we will utilize tools like GIS to present findings and make sure that our audience could easily understand what we are doing and how we do that. 
 #### Relevant
-Identifying pollution sources is crucial for addressing the community's mission of fostering a healthier and safer environment. By pinpointing specific industrial plants contributing to pollution, we can support SEJA's efforts to advocate for environmental justice and implement targeted mitigation measures.
-#### Time-bound 
-Within the next 2 months, we will complete comprehensive assessments in targeted areas to identify specific industrial plants responsible for water and air pollution. Progress will be monitored weekly, with a final report and recommendations provided to SEJA by the end of the timeline.
+Tailoring solutions to community needs, our SMART goal should prioritize solutions that meet the unique needs and preferences of the local community represented by SEJA. This may involve conducting community surveys, hosting town hall meetings, and actively involving community members in decision-making processes. Also, throughout the implementation of our plan, we must continually monitor its progress and effectiveness in addressing SEJA's priorities. By collecting feedback from SEJA and community members, we can identify any emerging concerns or changing priorities and adapt our strategies accordingly.
+#### Time-bound
+Within the next 6 weeks, we will complete comprehensive assessments to identify specific industrial plants responsible for water and air pollution and measure the impact. Progress will be monitored weekly, with a final report and recommendations provided to SEJA by the end of the timeline
+
 #### Questions:
-1. What are the specific geographic locations, types of plants, pollutants that is affecting the South Fulton area over time? Which location has the most pollutants so that we can pay extra attention to and inform the community? 
+1. What are the specific geographic locations, types of plants, and pollutants that are affecting the South Fulton area over time? Which location has the most pollutants so that we can pay extra attention to and inform the community? 
 2. What do we know from the water quality data? And is there any correlation between water quality, air, and pollution factors over the years?
 
 ## Plan
