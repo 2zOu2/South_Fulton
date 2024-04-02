@@ -1,0 +1,40 @@
+< South Fulton TRI Data 2020-2022 > Catalogue README
+ 
+## Category 	Information 
+High level, 2 sentence overview  	 The data contains South Fulton’s Toxics Release Inventory data from 2020 to 2022. This gives us information on toxic releases for the majority of industrial facilities around South Fulton from 2020-2022.
+## Search keywords 	 
+Toxic chemicals, South Fulton, Chemicals
+## Data Dictionary? Y/N 	 
+NO
+## Does it contain PII? If yes – STOP HERE.  	 
+NO
+## Use cases. Links to example uses or a few sentences for intended use. 	 
+for example, one TRI facility name has its own location, label ID, chemical, and industry sector etc. 
+## How to access the Raw Data Source. (Link to data source and access instructions.) 	    
+edap.epa.gov/public/extentions/TRIToxicsTracker/TRIToxicsTracker.html 
+## Raw Data collector and trustworthiness of source.  	 
+Environmental Protection Agency, which is very trustworthy.  
+## Dynamic or static? (Does the analyst have to re-download and re-clean, or is the data set up-to-date) 	 
+I think the dataset is clean. Data is not up-to-date because it is now 2024 while the data only track until 2020.
+## How is the raw data maintained?  	 
+N/A
+## Geographic and time coverage of data. 	 
+2020 to 2022, in South Fulton
+## Caveats or limitations on data. 	 
+In South Fulton, GA
+## When was the raw data accessed for “cleaning”? 	 
+N/A
+## How was the data verified and cleaned?   	 
+Not sure how it’s verified 
+## Link to code and instructions for “cleaning” 	 
+The data is already pretty neat. 
+## Completeness vs. sparsity 	 
+complete
+## Link to any code and instructions for data analysis.  	 
+N/A
+## Link to cleaned dataset 	 
+N/A
+## Link to GitHub Repository for READMEs, code, etc.  	 
+https://github.com/2zOu2/South_Fulton/blob/main/South%20Fulton%20TRI%20data%202020-2022.csv 
+
+
