@@ -1,6 +1,0 @@
-ActivityStartDate,CharacteristicName,ResultSampleFractionText,ResultMeasureValue,ResultMeasure/MeasureUnitCode,StatisticalBaseCode,MonitoringLocationIdentifier,LongitudeMeasure,LatitudeMeasure
-2012-09-10,"Stream flow, instantaneous",,0.00,m3/sec,,USGS-340388084232801,-84.2328,34.0388
-2012-09-10,"Temperature, water",,21.6,deg C,,USGS-340388084232801,-84.2328,34.0388
-2012-09-10,"Stream flow, instantaneous",,0.06,ft3/s,,USGS-340388084232801,-84.2328,34.0388
-2012-09-10,Specific conductance,Total,39,uS/cm @25C,,USGS-340388084232801,-84.2328,34.0388
-2012-09-10,Oxygen,Dissolved,7.6,mg/l,,USGS-340388084232801,-84.2328,34.0388
