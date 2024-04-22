@@ -31,8 +31,7 @@ Within the next 6 weeks, we will complete comprehensive assessments to identify 
 1. What are the specific geographic locations, types of plants, and pollutants that are affecting the South Fulton area over time? Which location has the most pollutants so that we can pay extra attention to and inform the community? 
 2. What do we know from the water quality data? And is there any correlation between water quality, air, and pollution factors over the years?
 
-## Plan
-Our project focuses on investigating air and water pollution in South Fulton. Here is our [Project Plan](https://github.com/2zOu2/North_Fulton/blob/main/Project%20Plan.xlsx)
+
 ## TRI Data source
 ### Dataset description
 The Toxics Release Inventory (TRI) is an information resource available through the Environmental Protection Agency that can help you learn about the management and release of toxic chemicals in your community. The TRI Program was established in 1987 out of the Emergency Planning and Community Right-to-Know Act. Today, there are over 21,000 facilities that report data to TRI nationwide, and it covers over 800 toxic chemicals. 
@@ -51,6 +50,8 @@ We aim to create an interactive map to tell the data story, and we have a [Chemi
 ##### Description
 We use pyplot package to display the top 5 chemical pollutants for each category and year from 2020 to 2022. Results are [here](https://github.com/2zOu2/South_Fulton/tree/main/Results)
 
+## USGS Water Quality
+### Please download the zipfile in the Github and find the details of this dataset and analysis code
 
 
 
